@@ -12,5 +12,4 @@ you see something here that looks like it belongs in a thesis, please leave it b
 communication channel" between myself, my trusted peers, and my research mentors. The code is not meant to be used in any one else's
 projects at this time. It is simply "there to be seen."
 
-Thank you,
-Brandon
+-Brandon
