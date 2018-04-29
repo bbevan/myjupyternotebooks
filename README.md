@@ -13,5 +13,4 @@ communication channel" between myself, my trusted peers, and my research mentors
 projects at this time. It is simply "there to be seen."
 
 Thank you,
-
 Brandon
